@@ -1,0 +1,259 @@
+@media (max-width: 575.99px) {
+    .rsm {
+        margin-left: 10px;
+    }
+    .col-sm-6.bnr.offset-3.text-center {
+        /* margin-right: 170px; */
+        margin-left: -22px;
+    }
+    .mnm {
+        padding-top: 10px;
+    }
+    .ovr.row {
+        height: 170px;
+    }
+    .skill h2 {
+        
+        padding-top: 19px;
+       
+    }
+    .skill h2::before {
+       
+        top: -25px;
+     
+    }
+    .skill {
+        text-align: center;
+        margin-top: 80px;
+    }
+    .row.plo {
+        height: 170px;
+        padding-top: 55px;
+    }
+    .resume {
+        /* font-size: 50px; */
+        margin-top: 71px;
+    }
+    .resume h2::before {
+       
+        top: -50px;
+    }
+    .gallery h1::before {
+       
+        top: -41px;
+    }
+    .ghg.pt-5.row.text-center {
+        height: 200px;
+    }
+   
+
+    .jmi {
+        padding-bottom: 20px;
+        height: 250px;
+    }
+    .bgd {
+        background-size: cover;
+        margin-top: 80px;
+        background-image: url(../images/bg2.png);
+        /* min-height: 106vh; */
+        height: 435px;
+        background-repeat: no-repeat;
+        background-position: center;
+        /* background-size: contain; */
+    }
+    .git h1::before {
+    
+        top: -84px;
+    }
+    .git {
+        height: 191px;
+    }
+    textarea{
+        columns: 55;
+    }
+
+}
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    
+    .mnm {
+        padding-top: 10px;
+    }
+    .ovr.row {
+        height: 170px;
+    }
+    .skill h2 {
+        
+        padding-top: 19px;
+       
+    }
+    .skill h2::before {
+       
+        top: -25px;
+     
+    }
+    .skill {
+        text-align: center;
+        margin-top: 80px;
+    }
+    .row.plo {
+        height: 170px;
+        padding-top: 55px;
+    }
+    .resume {
+        /* font-size: 50px; */
+        margin-top: 71px;
+    }
+    .resume h2::before {
+       
+        top: -50px;
+    }
+    .gallery h1::before {
+       
+        top: -41px;
+    }
+    .ghg.pt-5.row.text-center {
+        height: 200px;
+    }
+   
+
+    .jmi {
+        padding-bottom: 20px;
+        height: 250px;
+    }
+    .bgd {
+        background-size: cover;
+        margin-top: 80px;
+        background-image: url(../images/bg2.png);
+        /* min-height: 106vh; */
+        height: 435px;
+        background-repeat: no-repeat;
+        background-position: center;
+        /* background-size: contain; */
+    }
+    .git h1::before {
+    
+        top: -84px;
+    }
+    .git {
+        height: 191px;
+    }
+    
+    .col-sm-2.yty {
+        margin-left: 27px;
+    }
+    .btn-custom-3 {
+        height: 100px;
+        margin-top: 110px;
+        width: 236px;
+    }
+    textarea {
+        /* columns: 55; */
+        /* height: 100px; */
+        width: 243px;
+    }
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+header{
+    min-height: 120vh;
+
+}
+.mnm {
+    padding-top: 10px;
+}
+.ovr.row {
+    height: 170px;
+}
+.skill h2 {
+    
+    padding-top: 19px;
+   
+}
+.skill h2::before {
+   
+    top: -25px;
+ 
+}
+.skill {
+    text-align: center;
+    margin-top: 80px;
+}
+.row.plo {
+    height: 170px;
+    padding-top: 55px;
+}
+.resume {
+    /* font-size: 50px; */
+    margin-top: 71px;
+}
+.resume h2::before {
+   
+    top: -50px;
+}
+.gallery h1::before {
+   
+    top: -41px;
+}
+.ghg.pt-5.row.text-center {
+    height: 200px;
+}
+
+
+.jmi {
+    padding-bottom: 20px;
+    height: 250px;
+}
+.bgd {
+    background-size: cover;
+    margin-top: 80px;
+    background-image: url(../images/bg2.png);
+    /* min-height: 106vh; */
+    height: 435px;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: contain; */
+}
+.git h1::before {
+
+    top: -84px;
+}
+.git {
+    height: 191px;
+        margin-top: 80px;
+    }
+
+.btn-custom-3 {
+   
+    height: 70px;
+    
+    width: 270px;
+    
+    margin-top: 100px;
+   
+}
+textarea {
+    height: 300px;
+    width: 330px;
+}
+
+
+}
+
+
+
+@media (min-width: 1200px) {
+
+header{
+    min-height: 90vh;
+}
+}
